@@ -1,0 +1,1 @@
+ CREATE DATABASE  MY_MODEL_DB  COMMENT = 'Database for storing Machine Learning Model details and related information' 
