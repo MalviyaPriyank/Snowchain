@@ -1,0 +1,1 @@
+  CREATE OR REPLACE SCHEMA WEB_TRANSACTION.WEEKDAYS_TRANSACTION  REPLACE_INVALID_CHARACTERS = FALSE  COMMENT = "Schema to store weekday customer transactions and interactions from website" 
