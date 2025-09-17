@@ -1,0 +1,1 @@
+  CREATE OR REPLACE SCHEMA MY_MODEL_DB.ENSEMBLE_MODEL  REPLACE_INVALID_CHARACTERS = FALSE  COMMENT = "Schema for storing ensemble model configurations, parameters, and related metadata for machine learning models" 
