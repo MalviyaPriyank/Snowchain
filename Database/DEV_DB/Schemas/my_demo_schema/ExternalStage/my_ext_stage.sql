@@ -1,0 +1,1 @@
+   CREATE OR REPLACE STAGE DEV_DB.my_demo_schema.my_ext_stage  FILE_FORMAT = DEV_DB.my_demo_schema.my_csv_format  URL = 's3://sf-bucket-snowchain'  STORAGE_INTEGRATION = S3_INT 
