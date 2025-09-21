@@ -1,1 +1,1 @@
- CREATE DATABASE  CRM_DEV_DB  COMMENT = 'Database for CRM development environment' 
+CREATE DATABASE  CRM_DEV_DB 
