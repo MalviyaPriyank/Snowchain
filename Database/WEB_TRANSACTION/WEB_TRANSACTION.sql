@@ -1,1 +1,0 @@
- CREATE DATABASE  WEB_TRANSACTION  COMMENT = 'Database to store customer interactions and transactions from website' 
