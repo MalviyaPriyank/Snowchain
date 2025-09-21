@@ -1,0 +1,1 @@
+ CREATE DATABASE  CRM_DEV_DB  COMMENT = 'Customer Relationship Management Development Database for storing customer data, interactions, and sales information' 
