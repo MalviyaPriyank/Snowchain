@@ -1,0 +1,1 @@
+  CREATE OR REPLACE SCHEMA CRM_DEV_DB.SALES  REPLACE_INVALID_CHARACTERS = FALSE  COMMENT = "Sales schema for managing account information, product catalog, sales transactions, and pipeline data in the CRM system" 
