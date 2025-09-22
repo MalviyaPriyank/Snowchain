@@ -1,1 +1,0 @@
-       CREATE CORTEX SEARCH SERVICE CRM_DEV_DB.SALES.transcript_search_service  ON  transcript_text  ATTRIBUTES  region  WAREHOUSE = Compute_wh  TARGET_LAG = '1 hour'  EMBEDDING_MODEL = 'snowflake-arctic-embed-l-v2.0'  INITIALIZE = ON_CREATE  AS (select transcript_text,region, agent_id from search )
