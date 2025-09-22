@@ -1,0 +1,1 @@
+  CREATE OR REPLACE SCHEMA DEMO_DB.DEMO_SCHEMA  REPLACE_INVALID_CHARACTERS = FALSE  COMMENT = "Schema for demonstration objects and use cases" 
