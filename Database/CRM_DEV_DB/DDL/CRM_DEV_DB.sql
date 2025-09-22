@@ -1,1 +1,1 @@
- CREATE OR REPLACE DATABASE  CRM_DEV_DB  COMMENT = 'Customer Relationship Management Development Database' 
+CREATE OR REPLACE DATABASE  CRM_DEV_DB 
