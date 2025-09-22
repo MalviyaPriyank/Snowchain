@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  DEMO_DB  COMMENT = 'Database for demonstration purposes containing sample data and objects' 
