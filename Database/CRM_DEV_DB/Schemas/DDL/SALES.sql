@@ -1,1 +1,1 @@
-  CREATE OR REPLACE SCHEMA CRM_DEV_DB.SALES  REPLACE_INVALID_CHARACTERS = FALSE  COMMENT = "Schema for sales-related data including transactions, customer purchases, sales team performance, and revenue metrics." 
+  CREATE OR REPLACE SCHEMA CRM_DEV_DB.SALES  REPLACE_INVALID_CHARACTERS = FALSE  COMMENT = "NONE" 
