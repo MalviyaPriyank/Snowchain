@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  CRM_DEV_DB  COMMENT = 'This database holds Customer Relationship Management (CRM) data for development purposes.' 
