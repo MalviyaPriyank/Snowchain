@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE CRM_DEV_DB.STAR_SCHEMA.Crm_sales_teams ( sales_agent VARCHAR,  manager VARCHAR,  regional_office VARCHAR  ) 
