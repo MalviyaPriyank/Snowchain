@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE CRM_DEV_DB.STAR_SCHEMA.CRM_ACCOUNTS ( account VARCHAR,  sector VARCHAR,  year_established VARCHAR,  revenue VARCHAR,  employees VARCHAR,  office_location VARCHAR,  subsidiary_of VARCHAR  ) 
