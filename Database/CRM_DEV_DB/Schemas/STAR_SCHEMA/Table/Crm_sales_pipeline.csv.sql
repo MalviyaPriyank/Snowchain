@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE CRM_DEV_DB.STAR_SCHEMA.Crm_sales_pipeline ( opportunity_id VARCHAR,  sales_agent VARCHAR,  product VARCHAR,  account VARCHAR,  deal_stage VARCHAR,  engage_date VARCHAR,  close_date VARCHAR,  close_value VARCHAR  ) 
