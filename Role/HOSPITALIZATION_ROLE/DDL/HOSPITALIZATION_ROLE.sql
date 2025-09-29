@@ -1,0 +1,1 @@
+ CREATE ROLE HOSPITALIZATION_ROLE  COMMENT = 'Role for Hospitalization team with appropriate access privileges' 
