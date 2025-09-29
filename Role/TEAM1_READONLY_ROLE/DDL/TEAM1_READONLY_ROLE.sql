@@ -1,0 +1,1 @@
+ CREATE ROLE TEAM1_READONLY_ROLE  COMMENT = 'Read-only role for Team1 data' 
