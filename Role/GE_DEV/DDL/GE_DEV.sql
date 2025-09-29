@@ -1,0 +1,1 @@
+ CREATE ROLE GE_DEV  COMMENT = 'Developer role for GE database' 
