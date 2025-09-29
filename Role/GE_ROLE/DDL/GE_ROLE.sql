@@ -1,0 +1,1 @@
+ CREATE ROLE GE_ROLE  COMMENT = 'Role for GE team with appropriate access privileges' 
