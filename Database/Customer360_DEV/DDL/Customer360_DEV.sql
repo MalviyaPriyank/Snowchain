@@ -1,0 +1,1 @@
+  CREATE OR REPLACE DATABASE  Customer360_DEV  DATA_RETENTION_TIME_IN_DAYS = 1  COMMENT = 'Development database for Customer360 POC' 
