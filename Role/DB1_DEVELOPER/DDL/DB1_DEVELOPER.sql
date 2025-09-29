@@ -1,0 +1,1 @@
+ CREATE ROLE DB1_DEVELOPER  COMMENT = 'Developer role for Database 1 with read/write access' 
