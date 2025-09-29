@@ -1,0 +1,1 @@
+ CREATE ROLE HCA_DEV  COMMENT = 'Developer role for HCA database' 
