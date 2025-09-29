@@ -1,0 +1,1 @@
+ CREATE ROLE DB5_ADMIN  COMMENT = 'Administrative role for Database 5 with full control over DB5 objects' 
