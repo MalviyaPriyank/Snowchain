@@ -1,0 +1,1 @@
+ CREATE ROLE DB2_ADMIN  COMMENT = 'Administrative role for Database 2 with full control over DB2 objects' 
