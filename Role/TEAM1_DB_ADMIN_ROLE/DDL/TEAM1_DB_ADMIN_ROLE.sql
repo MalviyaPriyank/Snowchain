@@ -1,0 +1,1 @@
+ CREATE ROLE TEAM1_DB_ADMIN_ROLE  COMMENT = 'Database owner role for Team1' 
