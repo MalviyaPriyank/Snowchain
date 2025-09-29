@@ -1,0 +1,1 @@
+ CREATE ROLE CRM_ADMIN  COMMENT = 'Admin role for CRM team' 
