@@ -1,1 +1,0 @@
- CREATE ROLE HCA_ADMIN  COMMENT = 'Admin role for HCA team' 

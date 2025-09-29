@@ -1,1 +1,0 @@
- CREATE ROLE DB3_DEVELOPER  COMMENT = 'Developer role for Database 3 with read/write access' 

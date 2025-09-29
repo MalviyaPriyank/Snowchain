@@ -1,1 +1,0 @@
- CREATE ROLE DB1_ADMIN  COMMENT = 'Administrative role for Database 1 with full control over DB1 objects' 

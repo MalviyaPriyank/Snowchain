@@ -1,1 +1,0 @@
- CREATE ROLE FLIGHT_ACTIVITY_ADMIN  COMMENT = 'Admin role for Flight Activity team' 

@@ -1,1 +1,0 @@
- CREATE ROLE DB4_ADMIN  COMMENT = 'Administrative role for Database 4 with full control over DB4 objects' 
