@@ -1,0 +1,1 @@
+ CREATE ROLE DB3_ADMIN  COMMENT = 'Administrative role for Database 3 with full control over DB3 objects' 
