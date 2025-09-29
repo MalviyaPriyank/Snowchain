@@ -1,0 +1,1 @@
+ CREATE ROLE FLIGHT_ACTIVITY_ROLE  COMMENT = 'Role for Flight Activity team with appropriate access privileges' 
