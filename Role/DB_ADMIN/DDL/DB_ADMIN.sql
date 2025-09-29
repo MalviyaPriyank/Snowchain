@@ -1,0 +1,1 @@
+ CREATE ROLE DB_ADMIN  COMMENT = 'Administrator role for all databases' 
