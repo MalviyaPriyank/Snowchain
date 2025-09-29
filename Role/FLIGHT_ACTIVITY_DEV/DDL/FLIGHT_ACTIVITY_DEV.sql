@@ -1,0 +1,1 @@
+ CREATE ROLE FLIGHT_ACTIVITY_DEV  COMMENT = 'Developer role for Flight Activity database' 
