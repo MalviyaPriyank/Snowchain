@@ -1,0 +1,1 @@
+ CREATE ROLE SECURITYADMIN_ROLE  COMMENT = 'Security administration role for managing users and roles' 
