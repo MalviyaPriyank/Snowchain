@@ -1,0 +1,1 @@
+ CREATE ROLE CRM_ADMIN  COMMENT = 'Administrator role for the CRM database with full administrative privileges' 
