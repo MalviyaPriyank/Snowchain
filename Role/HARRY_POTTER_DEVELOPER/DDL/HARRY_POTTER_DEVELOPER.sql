@@ -1,0 +1,1 @@
+ CREATE ROLE HARRY_POTTER_DEVELOPER  COMMENT = 'Developer role for Harry Potter team' 
