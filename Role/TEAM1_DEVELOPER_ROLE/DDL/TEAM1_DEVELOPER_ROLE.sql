@@ -1,1 +1,0 @@
- CREATE ROLE TEAM1_DEVELOPER_ROLE  COMMENT = 'Developer role with read and write access for Team1' 

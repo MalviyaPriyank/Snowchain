@@ -1,1 +1,0 @@
-CREATE OR REPLACE TABLE CRM_DEV_DB.STAR_SCHEMA.Crm_Products ( product VARCHAR,  series VARCHAR,  sales_price VARCHAR  ) 

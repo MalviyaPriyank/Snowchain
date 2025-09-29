@@ -1,1 +1,0 @@
- CREATE ROLE HARRY_POTTER_ADMIN  COMMENT = 'Admin role for Harry Potter team with elevated privileges' 

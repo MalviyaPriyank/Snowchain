@@ -1,1 +1,0 @@
- CREATE ROLE CRM_ROLE  COMMENT = 'Role for CRM team with appropriate access privileges' 

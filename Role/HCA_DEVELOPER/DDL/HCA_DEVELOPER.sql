@@ -1,1 +1,0 @@
- CREATE ROLE HCA_DEVELOPER  COMMENT = 'Developer role for HCA team' 

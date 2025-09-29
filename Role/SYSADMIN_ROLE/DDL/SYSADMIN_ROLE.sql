@@ -1,1 +1,0 @@
- CREATE ROLE SYSADMIN_ROLE  COMMENT = 'System administrator role with ability to manage warehouses and databases' 

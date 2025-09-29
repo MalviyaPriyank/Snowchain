@@ -1,1 +1,0 @@
- CREATE ROLE HCA_ROLE  COMMENT = 'Role for HCA team with appropriate access privileges' 

@@ -1,1 +1,0 @@
-  CREATE OR REPLACE SCHEMA CRM_DEV_DB.SALES  REPLACE_INVALID_CHARACTERS = FALSE  COMMENT = "Schema for sales-related CRM data and operations" 
