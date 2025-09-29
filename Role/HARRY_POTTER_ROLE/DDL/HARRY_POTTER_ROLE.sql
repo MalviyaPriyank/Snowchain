@@ -1,0 +1,1 @@
+ CREATE ROLE HARRY_POTTER_ROLE  COMMENT = 'Role for Harry Potter team with appropriate access privileges' 
