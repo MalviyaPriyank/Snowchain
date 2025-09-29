@@ -1,0 +1,1 @@
+ CREATE ROLE GE_ADMIN  COMMENT = 'Admin role for GE team' 
