@@ -1,1 +1,0 @@
- CREATE ROLE CRM_DEV  COMMENT = 'Developer role for CRM database' 

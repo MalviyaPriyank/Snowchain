@@ -1,1 +1,0 @@
- CREATE ROLE DATABASE_ADMIN_ROLE  COMMENT = 'Admin role with ownership privileges on all development databases' 

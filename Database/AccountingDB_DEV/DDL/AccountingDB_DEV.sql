@@ -1,1 +1,0 @@
-  CREATE OR REPLACE DATABASE  AccountingDB_DEV  DATA_RETENTION_TIME_IN_DAYS = 1  COMMENT = 'Development database for AccountingDB POC' 

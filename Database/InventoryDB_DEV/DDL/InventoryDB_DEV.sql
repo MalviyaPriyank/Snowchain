@@ -1,1 +1,0 @@
-  CREATE OR REPLACE DATABASE  InventoryDB_DEV  DATA_RETENTION_TIME_IN_DAYS = 1  COMMENT = 'Development database for InventoryDB POC' 

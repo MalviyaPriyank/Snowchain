@@ -1,1 +1,0 @@
- CREATE ROLE HARRY_POTTER_DEV  COMMENT = 'Developer role for Harry Potter database' 
