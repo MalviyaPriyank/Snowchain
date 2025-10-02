@@ -1,0 +1,1 @@
+ CREATE ROLE INVENTORY_DEV_ROLE  COMMENT = 'Developer role for Inventory database' 
