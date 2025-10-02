@@ -1,0 +1,1 @@
+ CREATE ROLE ORDERSDB_DEV_ROLE  COMMENT = 'Developer role for ORDERSDB_DEV database' 
