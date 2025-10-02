@@ -1,0 +1,1 @@
+ CREATE ROLE CUSTOMER360_DEV_ROLE  COMMENT = 'Developer role for CUSTOMER360_DEV database' 
