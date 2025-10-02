@@ -1,1 +1,1 @@
- CREATE ROLE CUSTOMER360_DEV_ROLE  COMMENT = 'Developer role for CUSTOMER360_DEV database' 
+ CREATE ROLE CUSTOMER360_DEV_ROLE  COMMENT = 'Developer role for Customer360 database' 
