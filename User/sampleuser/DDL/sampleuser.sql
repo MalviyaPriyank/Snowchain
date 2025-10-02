@@ -1,0 +1,1 @@
+     CREATE USER sampleuser  PASSWORD = 'changePwd@123'  FIRST_NAME = test  LAST_NAME = user  EMAIL = 'tuser@gmail.com'  MUST_CHANGE_PASSWORD = TRUE 
