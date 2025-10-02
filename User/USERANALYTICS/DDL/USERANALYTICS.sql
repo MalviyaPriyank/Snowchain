@@ -1,0 +1,1 @@
+     CREATE USER USERANALYTICS  PASSWORD = 'Changepwd@123'  FIRST_NAME = User  LAST_NAME = analytics  EMAIL = 'useranalytics@gmail.com'  MUST_CHANGE_PASSWORD = TRUE 
