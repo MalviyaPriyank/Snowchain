@@ -1,0 +1,1 @@
+ CREATE ROLE ANALYTICS_ADMIN_ROLE  COMMENT = 'Admin role for Analytics and Operations databases' 
