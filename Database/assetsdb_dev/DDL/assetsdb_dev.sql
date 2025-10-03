@@ -1,0 +1,1 @@
+CREATE OR REPLACE DATABASE  assetsdb_dev 
