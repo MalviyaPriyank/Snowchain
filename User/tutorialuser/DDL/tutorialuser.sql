@@ -1,0 +1,1 @@
+     CREATE USER tutorialuser  PASSWORD = 'Tutorial@1234567890123'  FIRST_NAME = tutorial  LAST_NAME = user  EMAIL = 'tutuser@gmail.com'  MUST_CHANGE_PASSWORD = TRUE 
