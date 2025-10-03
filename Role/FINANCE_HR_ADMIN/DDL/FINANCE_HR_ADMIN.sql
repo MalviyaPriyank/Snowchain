@@ -1,0 +1,1 @@
+ CREATE ROLE FINANCE_HR_ADMIN  COMMENT = 'Admin role for Finance and HR category' 
