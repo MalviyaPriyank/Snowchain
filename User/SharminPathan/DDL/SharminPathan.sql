@@ -1,0 +1,1 @@
+     CREATE USER SharminPathan  PASSWORD = 'Welcome2024!'  FIRST_NAME = Sharmin  LAST_NAME = Pathan  EMAIL = 'sharmin.pathan07@gmail.com'  MUST_CHANGE_PASSWORD = TRUE 
