@@ -1,0 +1,1 @@
+ CREATE ROLE FINANCE_HR_DEVELOPER  COMMENT = 'Developer role for Finance and HR category' 
