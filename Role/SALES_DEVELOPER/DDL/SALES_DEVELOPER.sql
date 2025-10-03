@@ -1,0 +1,1 @@
+ CREATE ROLE SALES_DEVELOPER  COMMENT = 'Developer role for Customers and Sales category' 
