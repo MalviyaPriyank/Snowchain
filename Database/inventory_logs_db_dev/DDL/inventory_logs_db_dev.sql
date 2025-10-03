@@ -1,0 +1,1 @@
+CREATE OR REPLACE DATABASE  inventory_logs_db_dev 
