@@ -1,1 +1,0 @@
- CREATE ROLE TUTORIAL_ADMIN_ROLE  COMMENT = 'Admin role for tutorial user with privileges for database, warehouse, and Cortex Search operations' 

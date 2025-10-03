@@ -1,1 +1,0 @@
- CREATE ROLE HRRECORDS_DEV_ROLE  COMMENT = 'Developer role for HR Records database' 

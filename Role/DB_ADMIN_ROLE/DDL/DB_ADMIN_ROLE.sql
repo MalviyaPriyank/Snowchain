@@ -1,1 +1,0 @@
- CREATE ROLE DB_ADMIN_ROLE  COMMENT = 'Administrative role with access to all development databases' 

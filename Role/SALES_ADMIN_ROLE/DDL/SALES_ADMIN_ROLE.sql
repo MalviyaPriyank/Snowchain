@@ -1,1 +1,0 @@
- CREATE ROLE SALES_ADMIN_ROLE  COMMENT = 'Admin role for Customer and Sales related databases' 

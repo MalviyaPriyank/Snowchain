@@ -1,1 +1,0 @@
- CREATE ROLE SALESDB_DEV_ROLE  COMMENT = 'Developer role for SALESDB_DEV database' 
