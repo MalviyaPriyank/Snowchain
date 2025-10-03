@@ -1,0 +1,1 @@
+ CREATE ROLE DATA_ADMIN  COMMENT = 'Role for managing databases, tables, warehouses, and advanced services' 
