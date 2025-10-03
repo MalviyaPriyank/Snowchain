@@ -1,0 +1,1 @@
+ CREATE ROLE INVENTORY_ADMIN  COMMENT = 'Admin role for Inventory and Products category' 
