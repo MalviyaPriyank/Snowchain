@@ -1,0 +1,1 @@
+ CREATE ROLE ANALYTICS_OPS_DEVELOPER  COMMENT = 'Developer role for Analytics and Operations category' 
