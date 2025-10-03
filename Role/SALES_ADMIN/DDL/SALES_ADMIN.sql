@@ -1,0 +1,1 @@
+ CREATE ROLE SALES_ADMIN  COMMENT = 'Admin role for Customers and Sales category' 
