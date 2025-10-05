@@ -1,0 +1,1 @@
+     CREATE USER testuser  PASSWORD = 'Welcome123#'  FIRST_NAME = test  LAST_NAME = user  EMAIL = 'test@gmail.com'  MUST_CHANGE_PASSWORD = TRUE 
