@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  db123  COMMENT = 'Database created for general purpose use' 
