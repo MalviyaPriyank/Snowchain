@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  hiol  COMMENT = 'Database created for general purpose' 
