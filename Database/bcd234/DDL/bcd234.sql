@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  bcd234  COMMENT = 'Database created for general purpose use' 
