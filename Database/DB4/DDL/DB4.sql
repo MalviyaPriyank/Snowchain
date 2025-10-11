@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  DB4  COMMENT = 'Fourth database with restricted access' 
