@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  DB2  COMMENT = 'Second database with restricted access' 
