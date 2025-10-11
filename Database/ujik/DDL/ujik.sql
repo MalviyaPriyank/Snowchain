@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  ujik  COMMENT = 'Database created for general purpose use' 
