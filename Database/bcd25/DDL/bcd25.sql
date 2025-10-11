@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  bcd25  COMMENT = 'Database created for data storage and management.' 
