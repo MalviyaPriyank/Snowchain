@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  hijk  COMMENT = 'Database for general purpose use' 
