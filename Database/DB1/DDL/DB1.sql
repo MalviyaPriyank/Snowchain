@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  DB1  COMMENT = 'First database with restricted access' 
