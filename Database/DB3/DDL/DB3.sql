@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  DB3  COMMENT = 'Third database with restricted access' 
