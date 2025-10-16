@@ -1,0 +1,1 @@
+CREATE OR REPLACE FILE FORMAT  my_dev_db.my_schema.FF_CSV 
