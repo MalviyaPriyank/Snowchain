@@ -1,0 +1,1 @@
+ CREATE OR REPLACE STAGE my_dev_db.my_schema.FINANCE_EXTERNAL_STAGE  COMMENT = 'External stage for finance data ingestion from S3 bucket' 
