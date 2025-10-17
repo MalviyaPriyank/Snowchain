@@ -1,0 +1,1 @@
+    CREATE OR REPLACE FILE FORMAT  my_dev_db.my_schema.my_ff_csv  TYPE = CSV  FIELD_DELIMITER = ','  SKIP_HEADER = 1  COMMENT = 'CSV file format for real-time ingestion pipeline' 
