@@ -1,1 +1,1 @@
- CREATE OR REPLACE DATABASE  db123  COMMENT = 'Database created for general purpose use' 
+ CREATE OR REPLACE DATABASE  db123  COMMENT = 'Database for CSV ingestion pipeline' 
