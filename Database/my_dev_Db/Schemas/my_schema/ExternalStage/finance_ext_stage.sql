@@ -1,0 +1,1 @@
+   CREATE OR REPLACE STAGE my_dev_Db.my_schema.finance_ext_stage  FILE_FORMAT = my_dev_Db.my_schema.my_ff_csv_fmt  COMMENT = 'External stage for finance data ingestion from S3'  URL = 's3://sf-bucket-snowchain' 
