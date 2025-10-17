@@ -1,0 +1,1 @@
+   CREATE OR REPLACE STAGE db123.sc123.S3_STAGE  FILE_FORMAT = db123.sc123.CSV_FORMAT  COMMENT = 'External stage for S3 data ingestion'  URL = 's3://test-bucket/data' 
