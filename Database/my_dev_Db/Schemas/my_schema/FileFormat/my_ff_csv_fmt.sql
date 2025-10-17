@@ -1,0 +1,1 @@
+      CREATE OR REPLACE FILE FORMAT  my_dev_Db.my_schema.my_ff_csv_fmt  TYPE = CSV  COMPRESSION = AUTO  FIELD_DELIMITER = ','  SKIP_HEADER = 1  EMPTY_FIELD_AS_NULL = TRUE  COMMENT = 'CSV file format for finance data ingestion' 
