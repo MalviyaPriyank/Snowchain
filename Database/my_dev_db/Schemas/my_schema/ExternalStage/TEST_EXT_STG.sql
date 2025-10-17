@@ -1,0 +1,1 @@
+   CREATE OR REPLACE STAGE my_dev_db.my_schema.TEST_EXT_STG  FILE_FORMAT = my_dev_db.my_schema.my_ff_csv  COMMENT = 'External stage for real-time data ingestion'  URL = 's3://sf-bucket-snowchain' 
