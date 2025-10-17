@@ -1,0 +1,1 @@
+   CREATE OR REPLACE STAGE db123.sc123.stage_tt123  FILE_FORMAT = db123.sc123.csv_format_tt123  COMMENT = 'External stage for loading data into tt123'  URL = 's3://test-bucket/data' 
