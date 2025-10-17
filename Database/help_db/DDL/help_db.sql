@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  help_db  COMMENT = 'Database created for help and testing purposes' 
