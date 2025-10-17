@@ -1,0 +1,1 @@
+    CREATE OR REPLACE FILE FORMAT  db123.sc123.ff1  TYPE = CSV  FIELD_DELIMITER = ','  SKIP_HEADER = 1  COMMENT = 'File format for CSV ingestion' 
