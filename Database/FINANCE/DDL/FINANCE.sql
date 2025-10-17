@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  FINANCE  COMMENT = 'Finance database for financial data and reporting' 
