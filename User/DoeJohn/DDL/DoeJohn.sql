@@ -1,0 +1,1 @@
+  CREATE USER DoeJohn  EMAIL = 'jdoe@gmail.com'  MUST_CHANGE_PASSWORD = TRUE 
