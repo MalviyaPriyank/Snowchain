@@ -1,0 +1,1 @@
+  CREATE OR REPLACE SCHEMA dev_sales.salesforce  REPLACE_INVALID_CHARACTERS = FALSE  COMMENT = "Schema for Salesforce data integration" 
