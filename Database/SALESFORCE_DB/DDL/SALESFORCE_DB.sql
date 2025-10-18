@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  SALESFORCE_DB  COMMENT = 'Database for Salesforce data' 
