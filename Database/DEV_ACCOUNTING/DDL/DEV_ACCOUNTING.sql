@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  DEV_ACCOUNTING  COMMENT = 'Database for accounting operations' 
