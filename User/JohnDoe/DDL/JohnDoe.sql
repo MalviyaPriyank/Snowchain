@@ -1,1 +1,1 @@
-      CREATE USER JohnDoe  DISPLAY_NAME = 'John Doe'  FIRST_NAME = 'John'  LAST_NAME = 'Doe'  EMAIL = 'jdoe@gmail.com'  MUST_CHANGE_PASSWORD = TRUE  DEFAULT_ROLE = DEV_DBA_ROLE 
+     CREATE USER JohnDoe  DISPLAY_NAME = 'John Doe'  FIRST_NAME = 'John'  LAST_NAME = 'Doe'  EMAIL = 'jdoe@gmail.com'  MUST_CHANGE_PASSWORD = TRUE 
