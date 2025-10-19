@@ -1,0 +1,1 @@
+  CREATE OR REPLACE SCHEMA dev_finance.Salesforce_accounts  REPLACE_INVALID_CHARACTERS = FALSE  COMMENT = "Schema for Salesforce account data" 
