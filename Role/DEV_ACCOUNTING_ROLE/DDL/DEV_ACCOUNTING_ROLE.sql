@@ -1,1 +1,1 @@
- CREATE ROLE DEV_ACCOUNTING_ROLE  COMMENT = 'Developer role for DEV_ACCOUNTING database with full access except DROP' 
+ CREATE ROLE DEV_ACCOUNTING_ROLE  COMMENT = 'Role for developers working on dev_accounting database' 
