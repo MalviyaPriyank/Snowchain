@@ -1,0 +1,1 @@
+ CREATE ROLE DEV_FINANCE_ROLE  COMMENT = 'Role for dev_finance database access' 
