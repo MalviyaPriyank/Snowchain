@@ -1,0 +1,1 @@
+  CREATE OR REPLACE SCHEMA salesforce_dev.raw  REPLACE_INVALID_CHARACTERS = FALSE  COMMENT = "Raw schema for storing Salesforce data" 
