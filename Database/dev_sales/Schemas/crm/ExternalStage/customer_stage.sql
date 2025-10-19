@@ -1,0 +1,1 @@
+    CREATE OR REPLACE STAGE dev_sales.crm.customer_stage  FILE_FORMAT = dev_sales.crm.csv_format  COMMENT = 'External stage for customer data ingestion'  URL = 's3://sf-bucket-snowchain'  STORAGE_INTEGRATION = s3_int 
