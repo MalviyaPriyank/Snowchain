@@ -1,0 +1,1 @@
+ CREATE ROLE CONTRACTOR_ROLE  COMMENT = 'Role for contractors with limited privileges' 
