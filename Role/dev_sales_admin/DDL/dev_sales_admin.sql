@@ -1,0 +1,1 @@
+ CREATE ROLE dev_sales_admin  COMMENT = 'Administrative role for dev_sales database' 
