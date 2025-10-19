@@ -1,0 +1,1 @@
+ CREATE ROLE DEVELOPER_ROLE  COMMENT = 'Developer role with full database access except drop' 
