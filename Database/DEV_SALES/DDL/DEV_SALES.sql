@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  DEV_SALES  COMMENT = 'Development database for sales data' 
