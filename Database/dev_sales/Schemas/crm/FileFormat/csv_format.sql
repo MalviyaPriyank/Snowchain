@@ -1,0 +1,1 @@
+    CREATE OR REPLACE FILE FORMAT  dev_sales.crm.csv_format  TYPE = CSV  FIELD_DELIMITER = ','  PARSE_HEADER = TRUE  COMMENT = 'File format for customer data CSV files' 
