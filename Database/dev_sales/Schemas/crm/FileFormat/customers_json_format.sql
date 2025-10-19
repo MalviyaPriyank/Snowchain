@@ -1,0 +1,1 @@
+  CREATE OR REPLACE FILE FORMAT  dev_sales.crm.customers_json_format  TYPE = JSON  COMMENT = 'JSON file format for customers real-time ingestion pipeline' 
