@@ -1,0 +1,1 @@
+ CREATE ROLE DEV_DBA_ROLE  COMMENT = 'Role for development database access' 
