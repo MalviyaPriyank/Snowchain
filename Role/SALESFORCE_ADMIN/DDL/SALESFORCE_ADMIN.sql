@@ -1,0 +1,1 @@
+ CREATE ROLE SALESFORCE_ADMIN  COMMENT = 'Admin role for Salesforce development database' 
