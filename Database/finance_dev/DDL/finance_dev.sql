@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  finance_dev  COMMENT = 'Development database for finance-related data and operations' 
