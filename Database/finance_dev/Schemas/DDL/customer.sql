@@ -1,0 +1,1 @@
+  CREATE OR REPLACE SCHEMA finance_dev.customer  REPLACE_INVALID_CHARACTERS = FALSE  COMMENT = "Schema for customer related data" 
