@@ -1,0 +1,1 @@
+  CREATE OR REPLACE SCHEMA finance_dev.clean_banking  REPLACE_INVALID_CHARACTERS = FALSE  COMMENT = "Schema for cleaned and processed banking data" 
