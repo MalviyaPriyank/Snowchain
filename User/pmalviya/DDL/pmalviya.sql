@@ -1,0 +1,1 @@
+     CREATE USER pmalviya  PASSWORD = 'Welcome123!'  FIRST_NAME = 'Priyank'  LAST_NAME = 'Malviya'  EMAIL = 'priyank@thegyrus.com'  MUST_CHANGE_PASSWORD = TRUE 
