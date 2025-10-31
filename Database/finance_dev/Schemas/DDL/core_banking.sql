@@ -1,1 +1,1 @@
-  CREATE OR REPLACE SCHEMA finance_dev.core_banking  REPLACE_INVALID_CHARACTERS = FALSE  COMMENT = "Schema for core banking operations and transactions" 
+  CREATE OR REPLACE SCHEMA finance_dev.core_banking  REPLACE_INVALID_CHARACTERS = FALSE  COMMENT = "Schema for core banking operations including transactions, accounts, and related banking data" 
