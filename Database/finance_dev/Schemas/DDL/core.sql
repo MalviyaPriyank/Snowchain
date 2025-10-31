@@ -1,0 +1,1 @@
+  CREATE OR REPLACE SCHEMA finance_dev.core  REPLACE_INVALID_CHARACTERS = FALSE  COMMENT = "Core schema for primary financial data entities" 
