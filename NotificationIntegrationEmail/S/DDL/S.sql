@@ -1,0 +1,1 @@
+    CREATE NOTIFICATION INTEGRATION  SNOWFLAKE_OPTIMIZATION_ALERTS TYPE = EMAIL ENABLED = TRUE  ALLOWED_RECIPIENTS = ('priyank@thegyrus.com')  DEFAULT_RECIPIENTS = ('priyank@thegyrus.com')  DEFAULT_SUBJECT = 'Snowflake Account Optimization Alert'  COMMENT = 'Email integration for Snowflake performance and resource optimization alerts' 
