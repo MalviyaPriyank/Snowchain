@@ -1,0 +1,1 @@
+    CREATE NOTIFICATION INTEGRATION  TRANSACTION_TASK_NOTIFICATION TYPE = EMAIL ENABLED = TRUE  ALLOWED_RECIPIENTS = ('priyank@thegyrus.com')  DEFAULT_RECIPIENTS = ('priyank@thegyrus.com')  DEFAULT_SUBJECT = 'Transaction Task Failure Alert'  COMMENT = 'Notification integration for transaction table daily task' 
