@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  FEATURE_STORE_DATABASE  COMMENT = 'Database for feature store implementation' 
