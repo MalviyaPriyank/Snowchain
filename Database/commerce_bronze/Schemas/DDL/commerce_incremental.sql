@@ -1,0 +1,1 @@
+  CREATE OR REPLACE SCHEMA commerce_bronze.commerce_incremental  REPLACE_INVALID_CHARACTERS = FALSE  COMMENT = "Schema for incremental commerce data tables" 
