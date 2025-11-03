@@ -1,0 +1,1 @@
+ CREATE ROLE GENAI_ADMIN_ROLE  COMMENT = 'Administrator role for GenAI utilities and applications' 
