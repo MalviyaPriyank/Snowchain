@@ -1,0 +1,1 @@
+ CREATE ROLE DATA_ENGINEER_ROLE  COMMENT = 'Role for data engineering tasks' 
