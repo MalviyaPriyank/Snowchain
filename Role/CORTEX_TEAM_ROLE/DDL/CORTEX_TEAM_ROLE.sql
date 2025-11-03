@@ -1,0 +1,1 @@
+ CREATE ROLE CORTEX_TEAM_ROLE  COMMENT = 'Role for team members working with Cortex services' 
