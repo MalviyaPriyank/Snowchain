@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  CORTEX_DB  COMMENT = 'Database for Cortex Search and Analysis Services' 
