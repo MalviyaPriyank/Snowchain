@@ -1,1 +1,1 @@
- CREATE OR REPLACE DATABASE  commerce_bronze  COMMENT = 'Database for commerce data in bronze layer' 
+ CREATE OR REPLACE DATABASE  commerce_bronze  COMMENT = 'Database for commerce data' 
