@@ -1,0 +1,1 @@
+  CREATE OR REPLACE SCHEMA commerce_bronze.commerce_source  REPLACE_INVALID_CHARACTERS = FALSE  COMMENT = "Schema for source commerce data tables" 
