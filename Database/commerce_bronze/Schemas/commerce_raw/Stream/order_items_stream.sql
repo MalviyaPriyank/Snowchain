@@ -1,0 +1,1 @@
+ CREATE STREAM commerce_bronze.commerce_raw.order_items_stream ON TABLE commerce_bronze.commerce_raw.order_items COMMENT = 'Stream to track changes in order_items table' 
