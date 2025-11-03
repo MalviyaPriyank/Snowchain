@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  GENAI_UTILITIES  COMMENT = 'Database for GenAI utilities and applications' 
