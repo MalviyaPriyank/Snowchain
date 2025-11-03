@@ -1,0 +1,1 @@
+  CREATE OR REPLACE SCHEMA commerce_bronze.commerce_raw  REPLACE_INVALID_CHARACTERS = FALSE  COMMENT = "Schema for storing raw commerce data" 
