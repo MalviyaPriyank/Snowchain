@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  SAMPLE_DB  COMMENT = 'Sample database for incremental data loading demo' 
