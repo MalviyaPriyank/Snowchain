@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE COMMERCE_BRONZE.COMMERCE_INCREMENTAL.ORDER_ITEMS ( order_item_id VARCHAR,  order_id VARCHAR,  product_id VARCHAR,  quantity INTEGER,  unit_price NUMBER(10,2),  subtotal NUMBER(10,2)  ) 
