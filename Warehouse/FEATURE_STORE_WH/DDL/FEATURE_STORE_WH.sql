@@ -1,0 +1,1 @@
+ CREATE WAREHOUSE IF NOT EXISTS FEATURE_STORE_WH  COMMENT = 'Warehouse for feature store operations' 
