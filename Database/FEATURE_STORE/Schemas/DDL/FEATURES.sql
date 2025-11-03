@@ -1,0 +1,1 @@
+  CREATE OR REPLACE SCHEMA FEATURE_STORE.FEATURES  REPLACE_INVALID_CHARACTERS = FALSE  COMMENT = "Schema for storing feature definitions and data" 
