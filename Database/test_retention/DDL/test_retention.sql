@@ -1,0 +1,1 @@
+  CREATE OR REPLACE DATABASE  test_retention  DATA_RETENTION_TIME_IN_DAYS = 1  COMMENT = 'Database with 1-day data retention period for testing purposes' 
