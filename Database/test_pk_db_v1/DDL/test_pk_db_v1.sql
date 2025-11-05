@@ -1,0 +1,1 @@
+  CREATE OR REPLACE DATABASE  test_pk_db_v1  DATA_RETENTION_TIME_IN_DAYS = 1  COMMENT = 'Test database for data storage' 
