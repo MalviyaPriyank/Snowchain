@@ -1,0 +1,1 @@
+   CREATE OR REPLACE DATABASE  test_pk_db_ed2  DATA_RETENTION_TIME_IN_DAYS = 1  MAX_DATA_EXTENSION_TIME_IN_DAYS = 2  COMMENT = 'Database with 1 day retention and 2 days additional time in recycle bin' 
