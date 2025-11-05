@@ -1,0 +1,1 @@
+  CREATE OR REPLACE DATABASE  test_pk_db_v2  DATA_RETENTION_TIME_IN_DAYS = 1  COMMENT = 'Database intended for use with external storage (Google Cloud Storage integration required)' 
