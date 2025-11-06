@@ -1,0 +1,1 @@
+   CREATE USER samuel  PASSWORD = 'Snow@2024'  EMAIL = 'navarro.cecilio16@gmail.com'  MUST_CHANGE_PASSWORD = TRUE 
