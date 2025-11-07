@@ -1,0 +1,1 @@
+ CREATE ROLE ETL_ROLE  COMMENT = 'Role for ETL processes and data loading' 
