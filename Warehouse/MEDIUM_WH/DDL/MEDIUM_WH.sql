@@ -1,0 +1,1 @@
+    CREATE WAREHOUSE IF NOT EXISTS MEDIUM_WH  WAREHOUSE_SIZE = 'MEDIUM'  AUTO_SUSPEND = 300  AUTO_RESUME = TRUE  COMMENT = 'Medium warehouse for regular analytical queries' 
