@@ -1,0 +1,1 @@
+ CREATE ROLE DEV_ENGINEER_ROLE  COMMENT = 'Role for development engineers with warehouse access' 
