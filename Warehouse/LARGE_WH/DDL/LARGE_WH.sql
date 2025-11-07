@@ -1,0 +1,1 @@
+    CREATE WAREHOUSE IF NOT EXISTS LARGE_WH  WAREHOUSE_SIZE = 'LARGE'  AUTO_SUSPEND = 300  AUTO_RESUME = TRUE  COMMENT = 'Large warehouse for heavy data processing workloads' 
