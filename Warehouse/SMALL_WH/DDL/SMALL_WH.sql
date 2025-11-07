@@ -1,0 +1,1 @@
+    CREATE WAREHOUSE IF NOT EXISTS SMALL_WH  WAREHOUSE_SIZE = 'XSMALL'  AUTO_SUSPEND = 300  AUTO_RESUME = TRUE  COMMENT = 'Small warehouse for development and light queries' 
