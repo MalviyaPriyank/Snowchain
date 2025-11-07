@@ -1,0 +1,1 @@
+    CREATE WAREHOUSE IF NOT EXISTS DEV_ETL_WH  WAREHOUSE_SIZE = 'MEDIUM'  AUTO_SUSPEND = 180  AUTO_RESUME = TRUE  COMMENT = 'Development warehouse for ETL pipelines and data transformations' 
