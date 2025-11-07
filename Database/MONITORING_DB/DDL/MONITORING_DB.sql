@@ -1,1 +1,1 @@
- CREATE OR REPLACE DATABASE  MONITORING_DB  COMMENT = 'Database for storing monitoring and optimization related objects' 
+ CREATE OR REPLACE DATABASE  MONITORING_DB  COMMENT = 'Database for monitoring and analysis views' 
