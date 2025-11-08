@@ -1,0 +1,1 @@
+    CREATE WAREHOUSE IF NOT EXISTS ANALYTICS_DASHBOARD_WH  WAREHOUSE_SIZE = 'MEDIUM'  AUTO_SUSPEND = 300  AUTO_RESUME = TRUE  COMMENT = 'Warehouse for data analytics team dashboard workloads' 
