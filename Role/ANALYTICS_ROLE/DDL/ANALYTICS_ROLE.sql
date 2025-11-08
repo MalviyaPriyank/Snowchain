@@ -1,0 +1,1 @@
+ CREATE ROLE ANALYTICS_ROLE  COMMENT = 'Role for data analytics team members' 
