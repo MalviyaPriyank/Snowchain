@@ -1,0 +1,1 @@
+ CREATE ROLE DATA_ANALYST_ROLE  COMMENT = 'Role for data analysts with controlled access and spending' 
