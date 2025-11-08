@@ -1,0 +1,1 @@
+ CREATE ROLE ANALYTICS_TEAM_ROLE  COMMENT = 'Role for data analytics team with controlled warehouse access' 
