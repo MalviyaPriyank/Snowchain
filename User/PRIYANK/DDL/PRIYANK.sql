@@ -1,0 +1,1 @@
+    CREATE USER PRIYANK  PASSWORD = 'Temp123!'  DISPLAY_NAME = 'Priyank'  EMAIL = 'priyank@thegyrus.com'  MUST_CHANGE_PASSWORD = TRUE 
