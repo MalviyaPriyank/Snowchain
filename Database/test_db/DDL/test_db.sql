@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  test_db  COMMENT = 'Database created for testing purposes' 
