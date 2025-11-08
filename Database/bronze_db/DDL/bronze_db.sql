@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  bronze_db  COMMENT = 'Database for storing bronze (raw) layer data' 
