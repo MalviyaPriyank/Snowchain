@@ -1,1 +1,1 @@
-  CREATE OR REPLACE SCHEMA COMMERCE_BRONZE.COMMERCE_RAW  REPLACE_INVALID_CHARACTERS = FALSE  COMMENT = "Schema for raw commerce data including customers, products, orders, and related tables" 
+  CREATE OR REPLACE SCHEMA COMMERCE_BRONZE.COMMERCE_RAW  REPLACE_INVALID_CHARACTERS = FALSE  COMMENT = "Schema for raw commerce data" 
