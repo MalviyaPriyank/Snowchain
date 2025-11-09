@@ -1,1 +1,1 @@
-CREATE OR REPLACE TABLE COMMERCE_BRONZE.COMMERCE_SOURCE.PRODUCTS ( product_id VARCHAR,  product_name VARCHAR,  category_id VARCHAR,  unit_price NUMBER(10,2),  stock_quantity INTEGER  ) 
+CREATE OR REPLACE TABLE COMMERCE_BRONZE.COMMERCE_SOURCE.PRODUCTS ( product_id VARCHAR(50),  product_name VARCHAR(255),  category_id VARCHAR(50),  unit_price DECIMAL(10,2),  stock_quantity INTEGER  ) 
