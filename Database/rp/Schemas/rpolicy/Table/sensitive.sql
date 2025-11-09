@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE rp.rpolicy.sensitive ( SSN VARCHAR,  name VARCHAR,  department VARCHAR,  company VARCHAR  ) 
