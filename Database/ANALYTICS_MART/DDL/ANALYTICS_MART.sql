@@ -1,0 +1,1 @@
+     CREATE OR REPLACE DATABASE  ANALYTICS_MART  DATA_RETENTION_TIME_IN_DAYS = 1  DEFAULT_DDL_COLLATION = 'en_US'  LOG_LEVEL = 'INFO'  STORAGE_SERIALIZATION_POLICY = OPTIMIZED  COMMENT = 'High-performance database for real-time analytics with optimized storage' 
