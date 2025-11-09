@@ -1,1 +1,1 @@
-  CREATE OR REPLACE SCHEMA COMMERCE_BRONZE.COMMERCE_SOURCE  REPLACE_INVALID_CHARACTERS = FALSE  COMMENT = "Schema for storing source commerce data including customers, products, orders, and related tables" 
+  CREATE OR REPLACE SCHEMA COMMERCE_BRONZE.COMMERCE_SOURCE  REPLACE_INVALID_CHARACTERS = FALSE  COMMENT = "Schema for source commerce data tables" 
