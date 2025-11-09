@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  STAGING_DB  COMMENT = 'Database for data loading and staging operations' 
