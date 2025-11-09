@@ -1,1 +1,1 @@
-   CREATE NOTIFICATION INTEGRATION  COMMERCE_EMAIL_NOTIFICATION TYPE = EMAIL ENABLED = TRUE  ALLOWED_RECIPIENTS = ('priyank@thegyrus.com')  DEFAULT_SUBJECT = 'Commerce Data Load Task Failure'  COMMENT = 'Email notification integration for commerce data load failures' 
+   CREATE NOTIFICATION INTEGRATION  COMMERCE_EMAIL_NOTIFICATION TYPE = EMAIL ENABLED = TRUE  ALLOWED_RECIPIENTS = ('priyank@thegyrus.com')  DEFAULT_SUBJECT = 'Commerce Data Load Alert'  COMMENT = 'Email notification integration for commerce data load alerts' 
