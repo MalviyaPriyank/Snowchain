@@ -1,0 +1,1 @@
+  CREATE OR REPLACE SCHEMA rp.rpolicy  REPLACE_INVALID_CHARACTERS = FALSE  COMMENT = "Schema for storing sensitive data with row-level security" 
