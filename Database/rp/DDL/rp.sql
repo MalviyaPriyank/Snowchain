@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  rp  COMMENT = 'Database for storing sensitive data with row-level security' 
