@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  ANALYTICS_DB  COMMENT = 'Database for analytical workloads and data warehousing' 
