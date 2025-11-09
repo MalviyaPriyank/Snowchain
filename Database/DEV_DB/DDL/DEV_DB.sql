@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  DEV_DB  COMMENT = 'Database for development and testing purposes' 
