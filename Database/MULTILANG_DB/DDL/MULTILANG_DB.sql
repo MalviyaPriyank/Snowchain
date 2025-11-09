@@ -1,0 +1,1 @@
+    CREATE OR REPLACE DATABASE  MULTILANG_DB  DATA_RETENTION_TIME_IN_DAYS = 1  DEFAULT_DDL_COLLATION = 'fr_CA'  STORAGE_SERIALIZATION_POLICY = COMPATIBLE  COMMENT = 'Database configured for multi-language support with specific collation settings' 
