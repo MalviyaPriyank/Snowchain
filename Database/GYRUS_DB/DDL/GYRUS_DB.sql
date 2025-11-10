@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  GYRUS_DB  COMMENT = 'Database for Gyrus Search Service' 
