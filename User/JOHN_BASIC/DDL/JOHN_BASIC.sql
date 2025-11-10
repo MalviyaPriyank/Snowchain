@@ -1,0 +1,1 @@
+     CREATE USER JOHN_BASIC  PASSWORD = 'Welcome123!'  FIRST_NAME = 'John'  LAST_NAME = 'Basic'  EMAIL = 'john.basic@company.com'  MUST_CHANGE_PASSWORD = TRUE 
