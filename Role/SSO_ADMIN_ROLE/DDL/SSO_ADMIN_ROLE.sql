@@ -1,0 +1,1 @@
+ CREATE ROLE SSO_ADMIN_ROLE  COMMENT = 'Role for managing SSO integration and user mappings' 
