@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  SSO_MANAGEMENT  COMMENT = 'Database for SSO and security management' 
