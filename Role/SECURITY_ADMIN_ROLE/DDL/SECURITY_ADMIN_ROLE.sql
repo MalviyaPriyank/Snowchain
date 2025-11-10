@@ -1,0 +1,1 @@
+ CREATE ROLE SECURITY_ADMIN_ROLE  COMMENT = 'Role for security administrators who manage access controls and security policies' 
