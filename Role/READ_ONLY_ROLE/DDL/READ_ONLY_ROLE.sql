@@ -1,0 +1,1 @@
+ CREATE ROLE READ_ONLY_ROLE  COMMENT = 'Basic role for users who only need read access to specific data' 
