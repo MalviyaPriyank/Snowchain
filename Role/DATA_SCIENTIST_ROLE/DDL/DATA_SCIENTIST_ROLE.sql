@@ -1,0 +1,1 @@
+ CREATE ROLE DATA_SCIENTIST_ROLE  COMMENT = 'Role for data scientists who need advanced data access for modeling and analysis' 
