@@ -1,0 +1,1 @@
+ CREATE ROLE SYSADMIN_ROLE  COMMENT = 'Role for system administrators with full system administration privileges' 
