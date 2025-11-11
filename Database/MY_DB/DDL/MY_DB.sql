@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  MY_DB  COMMENT = 'Database for storing stages and other objects' 
