@@ -1,0 +1,1 @@
+  CREATE OR REPLACE SCHEMA MY_DB.MY_SCHEMA  REPLACE_INVALID_CHARACTERS = FALSE  COMMENT = "Schema for storing stages and other objects" 
