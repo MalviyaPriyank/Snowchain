@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE cortex_search_db.search_schema.conversation_details ( conversation_text VARCHAR(16777216),  rep_id VARCHAR(50),  client_id VARCHAR(50)  ) 
