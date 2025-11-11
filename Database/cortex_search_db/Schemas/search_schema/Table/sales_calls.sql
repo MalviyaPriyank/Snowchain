@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE cortex_search_db.search_schema.sales_calls ( representative_id VARCHAR(50),  customer_id VARCHAR(50),  call_notes TEXT,  call_date TIMESTAMP  ) 
