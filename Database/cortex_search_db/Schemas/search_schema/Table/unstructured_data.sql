@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE cortex_search_db.search_schema.unstructured_data ( region_id VARCHAR,  rep_id VARCHAR,  data VARIANT  ) 
