@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE STREAMS_DEMO_DB.SALES_DATA.ORDERS ( order_id INTEGER,  customer_id INTEGER,  order_date DATE,  status VARCHAR(20),  total_amount DECIMAL(10,2)  ) 
