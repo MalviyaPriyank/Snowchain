@@ -1,0 +1,1 @@
+ CREATE NETWORK RULE  SECURITY_DB.SECURITY_SCHEMA.IPV4_INGRESS_RULE TYPE = IPV4 VALUE_LIST = ('10.0.0.0/24','192.168.1.0/24') MODE = INGRESS COMMENT = 'Network rule to control ingress access for specific IP addresses' 
