@@ -1,0 +1,1 @@
+ CREATE NETWORK RULE  SECURITY_DB.SECURITY_SCHEMA.HOST_PORT_RULE_443 TYPE = HOST_PORT VALUE_LIST = ('*.snowflakecomputing.com:443') MODE = EGRESS COMMENT = 'Network rule to allow HTTPS traffic on port 443' 
