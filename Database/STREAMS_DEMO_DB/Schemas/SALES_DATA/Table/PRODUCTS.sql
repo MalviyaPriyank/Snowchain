@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE STREAMS_DEMO_DB.SALES_DATA.PRODUCTS ( product_id INTEGER,  product_name VARCHAR(100),  category_id INTEGER,  unit_price DECIMAL(10,2),  stock_quantity INTEGER  ) 
