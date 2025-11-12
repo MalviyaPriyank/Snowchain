@@ -1,0 +1,1 @@
+ CREATE NETWORK RULE  EXTERNAL_SERVICE_RULE TYPE = HOST_PORT VALUE_LIST = ('example.com:443') MODE = EGRESS COMMENT = 'Network rule to allow access to specific external services' 
