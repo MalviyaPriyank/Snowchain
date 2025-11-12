@@ -1,0 +1,1 @@
+ CREATE NETWORK RULE  ALLOWED_OFFICE_IPS TYPE = IPV4 VALUE_LIST = ('10.0.0.0/24') MODE = INGRESS COMMENT = 'Network rule to allow access from corporate office IP range' 
