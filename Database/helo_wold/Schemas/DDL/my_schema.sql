@@ -1,0 +1,1 @@
+  CREATE OR REPLACE SCHEMA helo_wold.my_schema  REPLACE_INVALID_CHARACTERS = FALSE  COMMENT = "Schema created for general purpose" 
