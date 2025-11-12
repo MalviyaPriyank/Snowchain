@@ -1,0 +1,1 @@
+ CREATE NETWORK RULE  security_db.security_schema.allow_internal_ips TYPE = IPV4 VALUE_LIST = ('10.0.0.0/8') MODE = INGRESS COMMENT = 'Network rule to allow internal IP range' 
