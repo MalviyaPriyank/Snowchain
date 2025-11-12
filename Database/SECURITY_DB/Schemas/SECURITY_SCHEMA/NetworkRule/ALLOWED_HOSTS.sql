@@ -1,0 +1,1 @@
+ CREATE NETWORK RULE  ALLOWED_HOSTS TYPE = HOST_PORT VALUE_LIST = ('myapp.example.com:443') MODE = EGRESS COMMENT = 'Network rule to allow access from specific hosts and ports' 
