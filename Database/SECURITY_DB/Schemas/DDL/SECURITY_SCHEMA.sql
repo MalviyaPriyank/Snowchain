@@ -1,0 +1,1 @@
+  CREATE OR REPLACE SCHEMA SECURITY_DB.SECURITY_SCHEMA  REPLACE_INVALID_CHARACTERS = FALSE  COMMENT = "Schema for storing network rules, authentication policies, and other security configurations" 
