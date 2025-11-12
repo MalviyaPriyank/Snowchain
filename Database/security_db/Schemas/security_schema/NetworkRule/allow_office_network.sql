@@ -1,0 +1,1 @@
+ CREATE NETWORK RULE  security_db.security_schema.allow_office_network TYPE = IPV4 VALUE_LIST = ('192.168.1.0/24') MODE = INGRESS COMMENT = 'Network rule to allow office IP range' 
