@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  helo_wold  COMMENT = 'Database created for general purpose' 
