@@ -1,0 +1,1 @@
+ CREATE NETWORK RULE  SECURITY_DB.SECURITY_SCHEMA.HOST_PORT_RULE_80 TYPE = HOST_PORT VALUE_LIST = ('*.snowflakecomputing.com:80') MODE = EGRESS COMMENT = 'Network rule to allow HTTP traffic on port 80' 
