@@ -1,0 +1,1 @@
+ CREATE NETWORK RULE  OFFICE_ACCESS_RULE TYPE = IPV4 VALUE_LIST = ('192.168.1.0/24,10.0.0.0/16') MODE = INGRESS COMMENT = 'Network rule to allow access from office IP ranges' 
