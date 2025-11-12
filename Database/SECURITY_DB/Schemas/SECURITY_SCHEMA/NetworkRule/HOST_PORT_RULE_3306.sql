@@ -1,0 +1,1 @@
+ CREATE NETWORK RULE  SECURITY_DB.SECURITY_SCHEMA.HOST_PORT_RULE_3306 TYPE = HOST_PORT VALUE_LIST = ('*.mysql-database.com:3306') MODE = EGRESS COMMENT = 'Network rule to allow MySQL database connections on port 3306' 
