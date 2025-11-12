@@ -1,0 +1,1 @@
+ CREATE NETWORK RULE  security_db.security_schema.allow_remote_network TYPE = IPV4 VALUE_LIST = ('172.16.0.0/16') MODE = INGRESS COMMENT = 'Network rule to allow remote office IP range' 
