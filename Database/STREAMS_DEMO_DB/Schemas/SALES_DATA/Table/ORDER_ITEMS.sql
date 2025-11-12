@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE STREAMS_DEMO_DB.SALES_DATA.ORDER_ITEMS ( order_item_id INTEGER,  order_id INTEGER,  product_id INTEGER,  quantity INTEGER,  unit_price DECIMAL(10,2),  subtotal DECIMAL(10,2)  ) 
