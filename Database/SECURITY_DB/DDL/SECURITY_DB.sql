@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  SECURITY_DB  COMMENT = 'Database for storing security-related objects and configurations' 
