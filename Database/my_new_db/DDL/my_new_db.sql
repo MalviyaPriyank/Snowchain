@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  my_new_db  COMMENT = 'Database created for general purpose use' 
