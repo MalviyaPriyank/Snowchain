@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  SUPPORT_INFO  COMMENT = 'Database for storing support contact information' 
