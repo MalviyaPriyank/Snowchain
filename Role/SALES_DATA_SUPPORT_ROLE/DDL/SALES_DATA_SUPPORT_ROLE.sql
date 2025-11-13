@@ -1,0 +1,1 @@
+ CREATE ROLE SALES_DATA_SUPPORT_ROLE  COMMENT = 'Role for support team members who can help with SALES_DATA schema issues' 
