@@ -1,0 +1,1 @@
+ CREATE CONTACT contact_db.contact_schema.admins_cc  USERS = ('JOHN_BASIC') 
