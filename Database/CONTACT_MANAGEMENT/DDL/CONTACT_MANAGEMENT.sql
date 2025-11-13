@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  CONTACT_MANAGEMENT  COMMENT = 'Database for managing contact information and support details' 
