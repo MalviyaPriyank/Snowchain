@@ -1,0 +1,1 @@
+ CREATE CONTACT contact_db.contact_schema.ti  EMAIL_DISTRIBUTION_LIST = 'info@thegyrus.com' 
