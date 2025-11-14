@@ -1,1 +1,1 @@
- CREATE OR REPLACE DATABASE  db123  COMMENT = 'Database for CSV ingestion pipeline' 
+CREATE OR REPLACE DATABASE  db123 
