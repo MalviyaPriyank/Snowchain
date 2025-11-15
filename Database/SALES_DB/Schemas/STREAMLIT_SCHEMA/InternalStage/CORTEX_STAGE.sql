@@ -1,0 +1,1 @@
+ CREATE OR REPLACE STAGE  SALES_DB.STREAMLIT_SCHEMA.CORTEX_STAGE  COMMENT = 'Internal stage for loading data into Cortex Search tables' 
