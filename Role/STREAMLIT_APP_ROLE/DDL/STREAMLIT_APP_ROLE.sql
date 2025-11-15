@@ -1,0 +1,1 @@
+ CREATE ROLE STREAMLIT_APP_ROLE  COMMENT = 'Role for Streamlit application access with read-only privileges' 
