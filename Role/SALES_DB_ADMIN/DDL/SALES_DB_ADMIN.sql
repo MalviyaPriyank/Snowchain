@@ -1,0 +1,1 @@
+ CREATE ROLE SALES_DB_ADMIN  COMMENT = 'Role with full privileges on SALES_DB' 
