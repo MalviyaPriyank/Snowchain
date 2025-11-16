@@ -1,0 +1,1 @@
+   CREATE OR REPLACE STAGE my_db.my_schema.ext_stage_processed  COMMENT = 'External stage for processed data files'  URL = 's3://sf-bucket-snowchain/processed/'  STORAGE_INTEGRATION = S3_INT 
