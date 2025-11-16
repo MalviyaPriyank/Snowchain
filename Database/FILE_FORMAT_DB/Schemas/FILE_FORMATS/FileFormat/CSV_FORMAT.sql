@@ -1,0 +1,1 @@
+       CREATE OR REPLACE FILE FORMAT  FILE_FORMAT_DB.FILE_FORMATS.CSV_FORMAT  TYPE = CSV  COMPRESSION = AUTO  FIELD_DELIMITER = ','  PARSE_HEADER = TRUE  TRIM_SPACE = TRUE  EMPTY_FIELD_AS_NULL = TRUE  COMMENT = 'Standard CSV format with header parsing, auto compression, and proper null handling' 
