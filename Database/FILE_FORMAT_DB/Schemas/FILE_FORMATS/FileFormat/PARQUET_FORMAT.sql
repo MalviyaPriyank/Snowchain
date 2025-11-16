@@ -1,0 +1,1 @@
+    CREATE OR REPLACE FILE FORMAT  FILE_FORMAT_DB.FILE_FORMATS.PARQUET_FORMAT  TYPE = PARQUET  COMPRESSION = SNAPPY  BINARY_AS_TEXT = FALSE  COMMENT = 'Parquet format optimized for columnar storage and high performance' 
