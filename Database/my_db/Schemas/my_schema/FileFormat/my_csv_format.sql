@@ -1,0 +1,1 @@
+      CREATE OR REPLACE FILE FORMAT  my_db.my_schema.my_csv_format  TYPE = CSV  FIELD_DELIMITER = ','  SKIP_HEADER = 1  TRIM_SPACE = TRUE  EMPTY_FIELD_AS_NULL = TRUE  COMMENT = 'CSV file format for data loading' 
