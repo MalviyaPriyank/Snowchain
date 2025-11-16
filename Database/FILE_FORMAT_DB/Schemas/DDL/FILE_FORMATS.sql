@@ -1,0 +1,1 @@
+  CREATE OR REPLACE SCHEMA FILE_FORMAT_DB.FILE_FORMATS  REPLACE_INVALID_CHARACTERS = FALSE  COMMENT = "Schema containing various file format specifications" 
