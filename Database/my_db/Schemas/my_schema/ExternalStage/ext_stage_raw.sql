@@ -1,0 +1,1 @@
+   CREATE OR REPLACE STAGE my_db.my_schema.ext_stage_raw  COMMENT = 'External stage for raw data files'  URL = 's3://sf-bucket-snowchain/raw/'  STORAGE_INTEGRATION = S3_INT 
