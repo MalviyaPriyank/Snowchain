@@ -1,0 +1,1 @@
+     CREATE OR REPLACE FILE FORMAT  FILE_FORMAT_DB.FILE_FORMATS.JSON_FORMAT  TYPE = JSON  COMPRESSION = AUTO  STRIP_OUTER_ARRAY = TRUE  STRIP_NULL_VALUES = TRUE  COMMENT = 'JSON format optimized for nested data structures with automatic null handling' 
