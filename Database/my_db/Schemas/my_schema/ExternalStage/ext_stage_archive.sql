@@ -1,0 +1,1 @@
+   CREATE OR REPLACE STAGE my_db.my_schema.ext_stage_archive  COMMENT = 'External stage for archived data files'  URL = 's3://sf-bucket-snowchain/archive/'  STORAGE_INTEGRATION = S3_INT 
