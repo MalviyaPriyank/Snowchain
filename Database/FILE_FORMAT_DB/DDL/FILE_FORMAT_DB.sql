@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  FILE_FORMAT_DB  COMMENT = 'Database for storing and managing different types of file formats' 
