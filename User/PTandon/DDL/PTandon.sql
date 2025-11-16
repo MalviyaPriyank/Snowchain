@@ -1,0 +1,1 @@
+     CREATE USER PTandon  PASSWORD = 'Welcome@2024'  EMAIL = 'paytmwal@gmail.com'  MUST_CHANGE_PASSWORD = TRUE  DISABLED = FALSE  TYPE = PERSON 
