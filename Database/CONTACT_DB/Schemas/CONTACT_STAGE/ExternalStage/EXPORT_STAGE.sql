@@ -1,0 +1,1 @@
+   CREATE OR REPLACE STAGE CONTACT_DB.CONTACT_STAGE.EXPORT_STAGE  COMMENT = 'External stage for data exports and reporting'  URL = 's3://sf-bucket-snowchain/exports'  STORAGE_INTEGRATION = s3_int 
