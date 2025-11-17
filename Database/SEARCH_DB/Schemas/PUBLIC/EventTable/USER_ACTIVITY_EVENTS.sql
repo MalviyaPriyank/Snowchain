@@ -1,0 +1,1 @@
+  CREATE OR REPLACE EVENT TABLE  PUBLIC.USER_ACTIVITY_EVENTS  CHANGE_TRACKING = TRUE  COMMENT = 'Event table for tracking user activities like logins, page views, and interactions' 
