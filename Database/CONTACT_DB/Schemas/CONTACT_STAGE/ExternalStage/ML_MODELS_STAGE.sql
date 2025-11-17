@@ -1,0 +1,1 @@
+   CREATE OR REPLACE STAGE CONTACT_DB.CONTACT_STAGE.ML_MODELS_STAGE  COMMENT = 'External stage for machine learning models and training data'  URL = 's3://sf-bucket-snowchain/ml_models'  STORAGE_INTEGRATION = s3_int 
