@@ -1,0 +1,1 @@
+   CREATE OR REPLACE STAGE CONTACT_DB.CONTACT_STAGE.CONTACT_EXTERNAL_STAGE  COMMENT = 'External stage for loading contact data from S3 bucket'  URL = 's3://sf-bucket-snowchain'  STORAGE_INTEGRATION = s3_int 
