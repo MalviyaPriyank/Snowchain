@@ -1,0 +1,1 @@
+   CREATE OR REPLACE STAGE CONTACT_DB.CONTACT_STAGE.RAW_DATA_STAGE  COMMENT = 'External stage for raw data ingestion from S3'  URL = 's3://sf-bucket-snowchain/raw_data'  STORAGE_INTEGRATION = s3_int 
