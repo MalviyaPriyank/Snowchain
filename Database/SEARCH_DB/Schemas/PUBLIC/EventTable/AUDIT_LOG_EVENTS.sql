@@ -1,0 +1,1 @@
+   CREATE OR REPLACE EVENT TABLE  PUBLIC.AUDIT_LOG_EVENTS  DATA_RETENTION_TIME_IN_DAYS = 1  CHANGE_TRACKING = TRUE  COMMENT = 'Event table for tracking security and compliance related events, data access, and modifications' 
