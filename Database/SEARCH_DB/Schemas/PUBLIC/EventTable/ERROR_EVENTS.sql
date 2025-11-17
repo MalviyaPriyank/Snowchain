@@ -1,0 +1,1 @@
+  CREATE OR REPLACE EVENT TABLE  PUBLIC.ERROR_EVENTS  CHANGE_TRACKING = FALSE  COMMENT = 'Event table for tracking application errors, exceptions, and system failures' 
