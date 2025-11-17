@@ -1,0 +1,1 @@
+  CREATE OR REPLACE EVENT TABLE  PUBLIC.EVENTS  CHANGE_TRACKING = FALSE  COMMENT = 'Event table for tracking application events with timestamp-based clustering' 
