@@ -1,0 +1,1 @@
+  CREATE OR REPLACE SCHEMA analytics_db.analytics_schema  REPLACE_INVALID_CHARACTERS = FALSE  COMMENT = "Schema for analytics data and transformations" 
