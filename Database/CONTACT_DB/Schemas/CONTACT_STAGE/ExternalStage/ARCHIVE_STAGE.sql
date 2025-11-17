@@ -1,0 +1,1 @@
+   CREATE OR REPLACE STAGE CONTACT_DB.CONTACT_STAGE.ARCHIVE_STAGE  COMMENT = 'External stage for archived historical data'  URL = 's3://sf-bucket-snowchain/archive'  STORAGE_INTEGRATION = s3_int 
