@@ -1,0 +1,1 @@
+   CREATE OR REPLACE STAGE CONTACT_DB.CONTACT_STAGE.TEMP_PROCESSING_STAGE  COMMENT = 'External stage for temporary data processing and intermediate files'  URL = 's3://sf-bucket-snowchain/temp'  STORAGE_INTEGRATION = s3_int 
