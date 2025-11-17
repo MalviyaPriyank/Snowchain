@@ -1,0 +1,1 @@
+  CREATE OR REPLACE EVENT TABLE  PUBLIC.SYSTEM_METRICS_EVENTS  CHANGE_TRACKING = FALSE  COMMENT = 'Event table for tracking system metrics like CPU usage, memory utilization, and performance metrics' 
