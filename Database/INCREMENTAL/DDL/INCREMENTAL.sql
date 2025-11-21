@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  INCREMENTAL  COMMENT = 'Database for storing incremental data' 
