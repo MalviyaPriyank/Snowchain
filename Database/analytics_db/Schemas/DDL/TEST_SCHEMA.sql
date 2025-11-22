@@ -1,0 +1,1 @@
+  CREATE OR REPLACE SCHEMA analytics_db.TEST_SCHEMA  REPLACE_INVALID_CHARACTERS = FALSE  COMMENT = "Schema created for testing purposes" 
