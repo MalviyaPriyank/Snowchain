@@ -1,0 +1,1 @@
+ CREATE STREAM search_db.search_Schema.documents_stream ON TABLE search_db.search_Schema.documents COMMENT = 'Stream to track changes on documents table' 
