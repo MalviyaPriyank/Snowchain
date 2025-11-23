@@ -1,0 +1,1 @@
+  CREATE OR REPLACE SCHEMA analytics_db.event_schema  REPLACE_INVALID_CHARACTERS = FALSE  COMMENT = "Schema for event tracking and analytics data" 
