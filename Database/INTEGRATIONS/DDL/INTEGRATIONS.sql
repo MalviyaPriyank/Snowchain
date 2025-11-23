@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  INTEGRATIONS  COMMENT = 'Database for storing integration related objects' 
