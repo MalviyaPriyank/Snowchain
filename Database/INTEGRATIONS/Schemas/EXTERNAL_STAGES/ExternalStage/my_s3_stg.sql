@@ -1,0 +1,1 @@
+   CREATE OR REPLACE STAGE INTEGRATIONS.EXTERNAL_STAGES.my_s3_stg  COMMENT = 'External stage for S3 bucket integration'  URL = 's3://sf-bucket-snowchain'  STORAGE_INTEGRATION = s3_int 
