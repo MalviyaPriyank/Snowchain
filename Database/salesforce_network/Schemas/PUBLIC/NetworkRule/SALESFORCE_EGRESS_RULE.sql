@@ -1,0 +1,1 @@
+ CREATE NETWORK RULE  salesforce_network.PUBLIC.SALESFORCE_EGRESS_RULE TYPE = HOST_PORT VALUE_LIST = ('*.salesforce.com:443') MODE = EGRESS COMMENT = 'Network rule to allow egress traffic to Salesforce endpoints' 
