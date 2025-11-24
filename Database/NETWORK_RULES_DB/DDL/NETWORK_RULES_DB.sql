@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  NETWORK_RULES_DB  COMMENT = 'Database for storing network rules and related objects' 
