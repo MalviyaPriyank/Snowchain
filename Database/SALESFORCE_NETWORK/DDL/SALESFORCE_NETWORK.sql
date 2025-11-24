@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  SALESFORCE_NETWORK  COMMENT = 'Database for Salesforce network rules and related objects' 
