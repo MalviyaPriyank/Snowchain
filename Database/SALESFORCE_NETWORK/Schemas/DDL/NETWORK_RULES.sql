@@ -1,0 +1,1 @@
+  CREATE OR REPLACE SCHEMA SALESFORCE_NETWORK.NETWORK_RULES  REPLACE_INVALID_CHARACTERS = FALSE  COMMENT = "Schema for storing network rules for Salesforce connectivity" 
