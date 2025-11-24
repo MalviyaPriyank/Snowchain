@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  db_frontend  COMMENT = 'Database for frontend applications and related data' 
