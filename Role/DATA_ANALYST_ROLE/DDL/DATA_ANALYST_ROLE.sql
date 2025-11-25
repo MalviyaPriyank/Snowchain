@@ -1,1 +1,1 @@
- CREATE ROLE DATA_ANALYST_ROLE  COMMENT = 'Role for data analysts with controlled access and spending' 
+ CREATE ROLE DATA_ANALYST_ROLE  COMMENT = 'Role for data analysts with read access to analytics schemas and warehouse usage rights' 
