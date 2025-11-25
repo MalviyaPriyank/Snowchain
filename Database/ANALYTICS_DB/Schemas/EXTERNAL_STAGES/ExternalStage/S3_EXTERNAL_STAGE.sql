@@ -1,0 +1,1 @@
+   CREATE OR REPLACE STAGE ANALYTICS_DB.EXTERNAL_STAGES.S3_EXTERNAL_STAGE  COMMENT = 'External stage connected to sf-bucket-snowchain'  URL = 's3://sf-bucket-snowchain'  STORAGE_INTEGRATION = S3_INT 
