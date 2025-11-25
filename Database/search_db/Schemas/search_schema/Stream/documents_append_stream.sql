@@ -1,0 +1,1 @@
+   CREATE STREAM search_db.search_schema.documents_append_stream ON TABLE search_db.search_schema.documents APPEND_ONLY = TRUE  SHOW_INITIAL_ROWS = FALSE  COMMENT = 'Append-only stream to track only INSERT operations, optimal for ETL processes' 
