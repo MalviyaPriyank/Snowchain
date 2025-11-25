@@ -1,0 +1,1 @@
+ CREATE CONTACT CONTACT_DB.CONTACT_SCHEMA.DATA_TEAM_PORTAL  URL = 'https://data-team.company.com' 
