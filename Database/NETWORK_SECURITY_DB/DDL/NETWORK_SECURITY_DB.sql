@@ -1,0 +1,1 @@
+ CREATE OR REPLACE DATABASE  NETWORK_SECURITY_DB  COMMENT = 'Database for network security rules and configurations' 
