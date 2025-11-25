@@ -1,0 +1,1 @@
+  CREATE OR REPLACE FILE FORMAT  FILE_FORMATS_DB.FORMATS.JSON_FORMAT  TYPE = JSON  COMMENT = 'Standard JSON format for semi-structured data' 
