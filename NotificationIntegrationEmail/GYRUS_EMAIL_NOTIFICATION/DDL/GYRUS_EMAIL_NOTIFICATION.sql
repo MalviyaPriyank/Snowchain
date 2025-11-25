@@ -1,0 +1,1 @@
+   CREATE NOTIFICATION INTEGRATION  GYRUS_EMAIL_NOTIFICATION TYPE = EMAIL ENABLED = TRUE  ALLOWED_RECIPIENTS = ('priyank@thegyrus.com')  DEFAULT_SUBJECT = 'Snowflake Alert Notification'  COMMENT = 'Email notification integration for Snowflake alerts and notifications for Gyrus team' 
