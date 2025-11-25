@@ -1,0 +1,1 @@
+   CREATE OR REPLACE EVENT TABLE  EVENTS_SCHEMA.EVENT_TRACKING  DATA_RETENTION_TIME_IN_DAYS = 1  CHANGE_TRACKING = TRUE  COMMENT = 'Table for tracking events with optimized retrieval settings' 
