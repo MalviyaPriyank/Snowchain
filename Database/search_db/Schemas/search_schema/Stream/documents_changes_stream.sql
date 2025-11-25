@@ -1,0 +1,1 @@
+   CREATE STREAM search_db.search_schema.documents_changes_stream ON TABLE search_db.search_schema.documents APPEND_ONLY = FALSE  SHOW_INITIAL_ROWS = FALSE  COMMENT = 'Standard stream to track all DML changes (inserts, updates, deletes) on the documents table' 
