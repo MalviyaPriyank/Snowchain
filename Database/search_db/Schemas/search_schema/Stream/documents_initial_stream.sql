@@ -1,0 +1,1 @@
+   CREATE STREAM search_db.search_schema.documents_initial_stream ON TABLE search_db.search_schema.documents APPEND_ONLY = FALSE  SHOW_INITIAL_ROWS = TRUE  COMMENT = 'Stream that includes initial table data along with changes, useful for initial load scenarios' 
