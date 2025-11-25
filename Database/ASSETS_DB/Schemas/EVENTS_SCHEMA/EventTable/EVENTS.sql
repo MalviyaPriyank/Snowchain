@@ -1,0 +1,1 @@
+ CREATE OR REPLACE EVENT TABLE  events_schema.EVENTS  COMMENT = 'Event tracking table for capturing system events' 
