@@ -6,7 +6,7 @@
         AS
         $$
             BEGIN
-                INSERT INTO incr_schema.customers SELECT * FROM dev_schema.customers;
+                BEGIN INSERT INTO incr_schema.customers SELECT * FROM dev_schema.customers; RETURN 'Records copied successfully from dev_schema.customers to incr_schema.customers'; END;
             END;
         $$
         
