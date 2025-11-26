@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE db_sp.dev_schema.customers ( customer_id INTEGER,  first_name VARCHAR(50),  last_name VARCHAR(50),  email VARCHAR(100),  phone VARCHAR(20),  date_joined DATE  ) 
