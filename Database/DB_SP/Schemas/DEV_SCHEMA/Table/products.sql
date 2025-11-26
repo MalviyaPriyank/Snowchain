@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE db_sp.dev_schema.products ( product_id INTEGER,  product_name VARCHAR(100),  category_id INTEGER,  unit_price DECIMAL(10,2),  stock_quantity INTEGER  ) 
