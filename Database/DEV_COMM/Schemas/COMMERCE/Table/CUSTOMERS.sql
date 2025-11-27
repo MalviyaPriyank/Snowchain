@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE DEV_COMM.COMMERCE.CUSTOMERS ( customer_id INTEGER,  first_name VARCHAR(50),  last_name VARCHAR(50),  email VARCHAR(100),  phone VARCHAR(20),  date_joined TIMESTAMP  ) 
