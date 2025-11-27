@@ -1,0 +1,1 @@
+   CREATE NOTIFICATION INTEGRATION  commerce_load_notification TYPE = EMAIL ENABLED = TRUE  ALLOWED_RECIPIENTS = ('priyank@thegyrus.com')  DEFAULT_SUBJECT = 'Commerce Data Load Task Status'  COMMENT = 'Email notification integration for commerce data load tasks' 
