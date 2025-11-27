@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE commerce_bronze.commerce_raw.customers ( customer_id VARCHAR,  first_name VARCHAR,  last_name VARCHAR,  email VARCHAR,  phone VARCHAR,  date_joined TIMESTAMP  ) 
