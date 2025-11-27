@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE commerce_bronze.commerce_raw.products ( product_id VARCHAR,  product_name VARCHAR,  category_id VARCHAR,  unit_price DECIMAL(10,2),  stock_quantity INTEGER  ) 
