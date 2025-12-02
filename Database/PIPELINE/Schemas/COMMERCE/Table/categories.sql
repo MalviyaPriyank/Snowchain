@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE pipeline.commerce.categories ( category_id INTEGER PRIMARY KEY,  category_name VARCHAR(50),  description VARCHAR(200)  ) 
