@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE DEV_PIPE_REAL.COMMERCE.CUSTOMERS ( customer_id INTEGER PRIMARY KEY,  first_name VARCHAR(50),  last_name VARCHAR(50),  email VARCHAR(100),  phone VARCHAR(20),  date_joined DATE  ) 
