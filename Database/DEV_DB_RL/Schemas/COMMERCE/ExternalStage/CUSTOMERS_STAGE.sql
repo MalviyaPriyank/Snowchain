@@ -1,0 +1,1 @@
+    CREATE OR REPLACE STAGE DEV_DB_RL.COMMERCE.CUSTOMERS_STAGE  FILE_FORMAT = DEV_DB_RL.COMMERCE.CSV_FORMAT  COMMENT = 'External stage for customers data'  URL = 's3://sf-bucket-snowchain/customers/'  STORAGE_INTEGRATION = S3_INT 
