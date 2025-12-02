@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE DEV_REAL.COMMERCE.CATEGORIES ( category_id INTEGER,  category_name VARCHAR(50),  description VARCHAR(200)  ) 
