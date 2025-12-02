@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE PIP_DEV.COMMERCE.CUSTOMERS ( customer_id VARCHAR,  first_name VARCHAR,  last_name VARCHAR,  email VARCHAR,  phone VARCHAR,  date_joined DATE  ) 
