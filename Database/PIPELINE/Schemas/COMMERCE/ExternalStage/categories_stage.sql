@@ -1,0 +1,1 @@
+   CREATE OR REPLACE STAGE pipeline.commerce.categories_stage  COMMENT = 'External stage for categories data ingestion'  URL = 's3://sf-bucket-snowchain/categories/'  STORAGE_INTEGRATION = S3_INT 
