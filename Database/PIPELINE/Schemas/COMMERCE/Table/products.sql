@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE pipeline.commerce.products ( product_id INTEGER PRIMARY KEY,  product_name VARCHAR(100),  category_id INTEGER REFERENCES commerce.categories(category_id),  unit_price DECIMAL(10,2),  stock_quantity INTEGER  ) 
