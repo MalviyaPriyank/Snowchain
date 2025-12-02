@@ -1,0 +1,1 @@
+  CREATE OR REPLACE FILE FORMAT  PIP_DEV.COMMERCE.COMMERCE_JSON  TYPE = JSON  COMMENT = 'JSON file format for commerce data ingestion' 
