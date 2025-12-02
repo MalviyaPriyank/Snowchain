@@ -1,0 +1,1 @@
+    CREATE OR REPLACE STAGE PIP_DEV.COMMERCE.COMMERCE_STAGE  FILE_FORMAT = PIP_DEV.COMMERCE.COMMERCE_JSON  COMMENT = 'External stage for commerce data ingestion'  URL = 's3://sf-bucket-snowchain'  STORAGE_INTEGRATION = S3_INT 
