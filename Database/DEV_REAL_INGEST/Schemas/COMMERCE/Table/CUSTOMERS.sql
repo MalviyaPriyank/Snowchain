@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE DEV_REAL_INGEST.COMMERCE.CUSTOMERS ( customer_id VARCHAR(50),  first_name VARCHAR(50),  last_name VARCHAR(50),  email VARCHAR(100),  phone VARCHAR(20),  date_joined DATE  ) 
