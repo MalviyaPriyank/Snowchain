@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE PIP_DEV.COMMERCE.CATEGORIES ( category_id VARCHAR,  category_name VARCHAR,  description VARCHAR  ) 
