@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE DEV_REAL_INGEST.COMMERCE.PRODUCTS ( product_id VARCHAR(50),  product_name VARCHAR(100),  category_id VARCHAR(50),  unit_price DECIMAL(10,2),  stock_quantity INTEGER  ) 
