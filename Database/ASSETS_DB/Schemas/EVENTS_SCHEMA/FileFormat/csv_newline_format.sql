@@ -1,0 +1,1 @@
+     CREATE OR REPLACE FILE FORMAT  assets_db.events_schema.csv_newline_format  TYPE = CSV  RECORD_DELIMITER = '\n'  FIELD_DELIMITER = ','  PARSE_HEADER = TRUE  COMMENT = 'File format for processing CSV files with newline record delimiter' 
