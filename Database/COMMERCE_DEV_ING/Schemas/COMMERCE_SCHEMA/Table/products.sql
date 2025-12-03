@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE commerce_dev_ing.commerce_schema.products ( product_id INTEGER PRIMARY KEY,  product_name VARCHAR(200) NOT NULL,  category_id INTEGER,  unit_price DECIMAL(10,2) NOT NULL,  stock_quantity INTEGER NOT NULL  ) 
