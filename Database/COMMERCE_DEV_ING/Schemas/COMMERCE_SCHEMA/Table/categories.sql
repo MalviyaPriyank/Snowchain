@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE commerce_dev_ing.commerce_schema.categories ( category_id INTEGER PRIMARY KEY,  category_name VARCHAR(100) NOT NULL,  description VARCHAR(500)  ) 
