@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE commerce_dev_ing.commerce_schema.customers ( customer_id INTEGER PRIMARY KEY,  first_name VARCHAR(50) NOT NULL,  last_name VARCHAR(50) NOT NULL,  email VARCHAR(100) NOT NULL,  phone VARCHAR(20),  date_joined DATE NOT NULL  ) 
