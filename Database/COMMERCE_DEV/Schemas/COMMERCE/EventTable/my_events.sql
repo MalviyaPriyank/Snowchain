@@ -1,0 +1,1 @@
+ CREATE OR REPLACE EVENT TABLE  commerce.my_events  COMMENT = 'Event table for tracking events in commerce schema' 
