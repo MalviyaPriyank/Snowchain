@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE analytics_db.analytics_schema.customer ( customer_id VARCHAR(50),  first_name VARCHAR(100),  last_name VARCHAR(100),  email VARCHAR(255),  phone VARCHAR(20),  address VARCHAR(500),  created_date TIMESTAMP_NTZ  ) 
