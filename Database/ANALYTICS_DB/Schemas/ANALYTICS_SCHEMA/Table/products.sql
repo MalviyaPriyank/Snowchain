@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE analytics_db.analytics_schema.products ( product_id NUMBER,  product_name VARCHAR(100),  description VARCHAR(500),  price DECIMAL(10,2),  category VARCHAR(50),  created_date TIMESTAMP_NTZ,  modified_date TIMESTAMP_NTZ  ) 
