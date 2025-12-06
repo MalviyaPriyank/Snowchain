@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE db123.sc123.customer_demo1 ( cust_name VARCHAR,  cust_address VARCHAR  ) 
