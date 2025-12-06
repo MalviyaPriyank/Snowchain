@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE db123.sc123.customer_demo ( cust_name varchar,  cust_address varchar  ) 
