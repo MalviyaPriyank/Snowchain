@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE COMMERCE_DEV.COMMERCE_MAIN.PRODUCTS ( product_id NUMBER PRIMARY KEY,  product_name VARCHAR(100),  category_id NUMBER,  unit_price DECIMAL(10,2),  stock_quantity NUMBER  ) 
