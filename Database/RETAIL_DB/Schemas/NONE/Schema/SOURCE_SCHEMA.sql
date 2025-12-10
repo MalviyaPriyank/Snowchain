@@ -1,0 +1,5 @@
+  
+        CREATE OR REPLACE SCHEMA 
+        RETAIL_DB.SOURCE_SCHEMA 
+         REPLACE_INVALID_CHARACTERS = FALSE 
+ COMMENT = "Schema for source tables" 
