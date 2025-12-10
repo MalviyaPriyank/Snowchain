@@ -1,0 +1,4 @@
+    CREATE USER NEW_USER  FIRST_NAME = 'NEW' 
+ LAST_NAME = 'USER' 
+ EMAIL = 'newuser@gmail.com' 
+ MUST_CHANGE_PASSWORD = TRUE 
