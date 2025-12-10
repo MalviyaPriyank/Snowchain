@@ -1,0 +1,5 @@
+     CREATE USER NEW_USER_SALES  PASSWORD = 'Temp123!' 
+ FIRST_NAME = 'NEW' 
+ LAST_NAME = 'USER' 
+ EMAIL = 'newuser@gmail.com' 
+ MUST_CHANGE_PASSWORD = TRUE 
