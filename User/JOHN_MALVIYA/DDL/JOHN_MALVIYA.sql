@@ -1,0 +1,6 @@
+      CREATE USER JOHN_MALVIYA  DISPLAY_NAME = 'John Malviya' 
+ FIRST_NAME = 'John' 
+ LAST_NAME = 'Malviya' 
+ EMAIL = 'john_malviya0@gmail.com' 
+ MUST_CHANGE_PASSWORD = TRUE 
+ DEFAULT_WAREHOUSE = SALES_ANALYTICS_WH 
