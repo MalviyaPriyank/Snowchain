@@ -1,0 +1,1 @@
+     CREATE OR REPLACE WAREHOUSE SALES_ANALYTICS_WH  WAREHOUSE_SIZE = 'MEDIUM'  WAREHOUSE_TYPE  = 'STANDARD'  AUTO_SUSPEND = 300  AUTO_RESUME = TRUE  COMMENT = 'Dedicated warehouse for sales analytics team with auto-suspension for cost control' 
