@@ -1,0 +1,2 @@
+  CREATE NOTIFICATION INTEGRATION  COST_MONITOR_EMAIL TYPE = EMAIL ENABLED = TRUE  ALLOWED_RECIPIENTS = ('priyank@thegyrus.com') 
+ COMMENT = 'Email notification integration for cost monitoring alerts' 
