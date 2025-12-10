@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE SALES_DB.CONVERSATIONS.sales_conversations ( conversation_id NUMBER,  conversation_text TEXT,  sales_rep_region VARCHAR(100),  customer_name VARCHAR(100),  conversation_date TIMESTAMP,  sales_rep_name VARCHAR(100)  ) 
