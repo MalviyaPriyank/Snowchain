@@ -1,4 +1,4 @@
  
         CREATE OR REPLACE DATABASE  
         COMMERCE_DEV 
-         COMMENT = 'Database for commerce development environment' 
+         COMMENT = 'Database for commerce development' 
