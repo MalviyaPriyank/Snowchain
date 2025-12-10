@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE COMMERCE_DEV.COMMERCE_DATA_INCREMENTAL.PRODUCTS ( product_id VARCHAR(50),  product_name VARCHAR(255),  category_id VARCHAR(50),  unit_price DECIMAL(10,2),  stock_quantity INTEGER  ) 
