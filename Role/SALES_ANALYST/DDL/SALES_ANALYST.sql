@@ -1,0 +1,1 @@
+ CREATE ROLE SALES_ANALYST  COMMENT = 'Role for sales analytics team members' 
