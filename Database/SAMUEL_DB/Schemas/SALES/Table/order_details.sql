@@ -1,1 +1,1 @@
-CREATE OR REPLACE TABLE SAMUEL_DB.sales.order_details ( order_detail_id INTEGER,  order_id INTEGER,  product_id INTEGER,  quantity INTEGER,  unit_price DECIMAL(10,2),  discount DECIMAL(4,2),  total_price DECIMAL(12,2)  ) 
+CREATE OR REPLACE TABLE samuel_db.sales.order_details ( order_detail_id INTEGER,  order_id INTEGER,  product_id INTEGER,  quantity INTEGER,  unit_price DECIMAL(10,2),  discount DECIMAL(4,2),  total_price DECIMAL(10,2)  ) 
