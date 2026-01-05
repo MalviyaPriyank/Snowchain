@@ -1,5 +1,5 @@
   
         CREATE OR REPLACE SCHEMA 
-        SAMUEL_DB.sales 
+        samuel_db.sales 
          REPLACE_INVALID_CHARACTERS = FALSE 
- COMMENT = "Schema for sales related data and operations" 
+ COMMENT = "Sales schema for demo tables" 
