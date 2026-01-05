@@ -1,1 +1,1 @@
-CREATE OR REPLACE TABLE SAMUEL_DB.sales.products ( product_id INTEGER,  product_name VARCHAR(100),  description VARCHAR(500),  category VARCHAR(50),  unit_price DECIMAL(10,2),  stock_quantity INTEGER,  created_date TIMESTAMP_NTZ  ) 
+CREATE OR REPLACE TABLE samuel_db.sales.products ( product_id INTEGER,  product_name VARCHAR(100),  description VARCHAR(500),  category VARCHAR(50),  unit_price DECIMAL(10,2),  stock_quantity INTEGER,  supplier_id INTEGER,  created_date TIMESTAMP  ) 
