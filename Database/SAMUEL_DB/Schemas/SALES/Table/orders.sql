@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE SAMUEL_DB.sales.orders ( order_id INTEGER,  customer_id INTEGER,  order_date TIMESTAMP_NTZ,  order_status VARCHAR(20),  shipping_address VARCHAR(200),  shipping_city VARCHAR(50),  shipping_state VARCHAR(50),  shipping_country VARCHAR(50),  shipping_postal_code VARCHAR(20),  total_amount DECIMAL(12,2)  ) 
