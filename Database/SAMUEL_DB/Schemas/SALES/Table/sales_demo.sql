@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE samuel_db.sales.sales_demo ( sale_id INTEGER,  product_name VARCHAR(100),  quantity INTEGER,  unit_price DECIMAL(10,2),  sale_date DATE  ) 
