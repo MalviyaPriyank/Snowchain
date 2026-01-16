@@ -1,0 +1,1 @@
+ CREATE ROLE DEMO_JAN_ROLE  COMMENT = 'Role for accessing DEMO_JAN database' 
