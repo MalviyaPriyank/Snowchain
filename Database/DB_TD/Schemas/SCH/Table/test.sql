@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE DB_TD.SCH.test ( id NUMBER,  name VARCHAR(100),  create_date TIMESTAMP,  amount DECIMAL(10,2)  ) 
